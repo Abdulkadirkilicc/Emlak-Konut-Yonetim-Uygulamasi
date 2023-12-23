@@ -18,5 +18,7 @@ Program, kullanıcıdan binanın özelliklerini girmesini isteyecek ve ardından
    
    
 ## Örnek Ekran Görüntüsü
-https://github.com/Abdulkadirkilicc/Emlak-Konut-Yonetim-Uygulamasi/blob/main/Uygulama%20%C3%87al%C4%B1%C5%9Ft%C4%B1rma.PNG
-https://github.com/Abdulkadirkilicc/Emlak-Konut-Yonetim-Uygulamasi/blob/main/Uygulama%20Se%C3%A7im%20Ekran.PNG
+![Uygulama Çalıştırma](https://github.com/Abdulkadirkilicc/Emlak-Konut-Yonetim-Uygulamasi/assets/115181323/1bea17e7-8189-4e23-9eee-5ccb2ed991a1)
+
+
+![Uygulama Seçim Ekran](https://github.com/Abdulkadirkilicc/Emlak-Konut-Yonetim-Uygulamasi/assets/115181323/93788e33-9d87-4357-b94c-95a92ed15876)
